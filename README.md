@@ -9,13 +9,13 @@ Software Requirements:
   - catkin_create_pkg basic_comms std_msgs rospy
 
 2.  Creating a folder:
-  - mkdir >name of the folder<
+  - mkdir [folders_name]
 
 3.  Creating a file:
-  - touch >name and extension of the file<
+  - touch [name]
 
 4.  Giving permission to executable scripts
-  - sudo chmod +x >name<
+  - sudo chmod +x [name]
 
 5.  Loading files
   - catkin_make

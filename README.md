@@ -21,4 +21,16 @@ Software Requirements:
   - catkin_make
   - source devel/setup.bash
 
+6.  To visualize the output of a node:
+  - rostopic echo
+  
+7.  Execute a node
+  - rosrun [package] [node]
+  
+8.  List the topics avialable
+  - rostopic list
+  
+9.  Execute a launch File:
+  - roslaunch [package] [name.launch]
+
   

@@ -9,8 +9,8 @@ int motorRPin2 = 15;
 int enableRPin = 4; 
 
 // LEFT Motor B
-int motorLPin1 = 12; 
-int motorLPin2 = 0; 
+int motorLPin1 = 13; 
+int motorLPin2 = 14; 
 int enableLPin = 2; 
 
 // Setting RIGHT MOTOR PWM properties

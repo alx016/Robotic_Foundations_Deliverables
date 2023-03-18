@@ -6,3 +6,4 @@ Dual Motor allows the user to introduce the speed the motor needs to go through 
 For this application our team presented some difficulties with the documentation of the board, and the pins. 
 
 Dual Motor 2 has the advantage that the user can see the stage of each motor through a rostopic echo. 
+![image](https://user-images.githubusercontent.com/90716908/226076379-d097c85c-fe6d-4914-96d0-80a61012e12e.png)

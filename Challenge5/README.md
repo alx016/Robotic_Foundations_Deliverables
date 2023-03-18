@@ -1,4 +1,4 @@
-file:///home/alex/Pictures/Screenshot%20from%202023-03-17%2019-56-48.png![image](https://user-images.githubusercontent.com/90716908/226077453-a2b11548-74b2-4dce-85c2-43ec67945605.png)
-file:///home/alex/Pictures/Screenshot%20from%202023-03-17%2019-57-07.png![image](https://user-images.githubusercontent.com/90716908/226077398-b173094b-3aff-4e07-9165-4d1ce9774b77.png)
-file:///home/alex/Pictures/Screenshot%20from%202023-03-17%2019-57-23.png![image](https://user-images.githubusercontent.com/90716908/226077405-379744f9-48ac-49a9-9db2-5ae67fa49f8c.png)
-file:///home/alex/Pictures/Screenshot%20from%202023-03-17%2019-57-45.png![image](https://user-images.githubusercontent.com/90716908/226077412-0766f644-8cac-4b18-b418-96baa5c4cddd.png)
+![image](https://user-images.githubusercontent.com/90716908/226077477-bf9fff0e-f20a-4362-afd3-c335e7b0e383.png)
+![image](https://user-images.githubusercontent.com/90716908/226077500-773a1773-544b-4951-8d0f-a67a5b1f89bd.png)
+![image](https://user-images.githubusercontent.com/90716908/226077511-7c6a3fbc-f1ec-46ea-a82d-402b44ef2cf6.png)
+![image](https://user-images.githubusercontent.com/90716908/226077528-7e0a227d-5fc1-4732-9431-729096a70461.png)
